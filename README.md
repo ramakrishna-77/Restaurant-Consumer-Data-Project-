@@ -68,6 +68,6 @@ This project demonstrates how data analysis techniques can be used to understand
 
 ## Author
 
-Subbarao
+Ramakrishna
 Aspiring Data Analyst
 Skills: SQL, Python, Power BI, Data Analysis
